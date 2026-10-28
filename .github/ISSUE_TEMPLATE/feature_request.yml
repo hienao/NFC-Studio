@@ -1,0 +1,41 @@
+name: Feature request / 功能建议
+description: Suggest an improvement to NFC Studio / 建议改进 NFC Studio
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search existing requests first. English and Chinese are welcome.
+        请先搜索已有建议，欢迎使用中文或英文。内容公开可见，请勿填写凭据或私人信息。
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do? / 你想完成什么？
+      description: Describe the situation and what is difficult today / 描述使用场景和当前遇到的困难
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Related area / 涉及功能
+      multiple: true
+      options:
+        - Reading and diagnostics / 读取与诊断
+        - Writing and templates / 写入与模板
+        - History and backup / 历史与备份
+        - Pro tools and purchase / Pro 工具与购买
+        - General app experience / 通用体验
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement / 期望的改进
+      description: Explain the desired result with a concrete example / 用具体例子说明希望实现的效果
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Current workaround / 当前替代办法
+      description: Optional / 可选
