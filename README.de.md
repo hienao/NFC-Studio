@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/readme/icon.png" width="88" height="88" alt="NFC Studio"></p>
+<p align="center"><img src="assets/readme/icon-v2.png" width="88" height="88" alt="NFC Studio"></p>
 
 <h1 align="center">NFC Studio</h1>
 
