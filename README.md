@@ -10,12 +10,14 @@
 <p align="center">English · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a></p>
 
 <p align="center">
-  <a href="assets/readme/overview.webp"><img src="assets/readme/overview.webp" width="31%" alt="NFC Studio — overview"></a>
-  <a href="assets/readme/writing.webp"><img src="assets/readme/writing.webp" width="31%" alt="NFC Studio — NDEF writing"></a>
-  <a href="assets/readme/history.webp"><img src="assets/readme/history.webp" width="31%" alt="NFC Studio — local history"></a>
+  <a href="assets/readme/en-US/read.png"><img src="assets/readme/en-US/read.png" width="31%" alt="NFC Studio — read tags on phone"></a>
+  <a href="assets/readme/en-US/write.png"><img src="assets/readme/en-US/write.png" width="31%" alt="NFC Studio — write tags on phone"></a>
+  <a href="assets/readme/en-US/tools.png"><img src="assets/readme/en-US/tools.png" width="31%" alt="NFC Studio — tools on phone"></a>
 </p>
 
-<p align="center"><sub>Public Google Play preview images. Tap to enlarge; the installed version may look different.</sub></p>
+<p align="center"><a href="assets/readme/en-US/tablet.png"><img src="assets/readme/en-US/tablet.png" width="72%" alt="NFC Studio — write tags on tablet"></a></p>
+
+<p align="center"><sub>App previews for phone and tablet. Tap to enlarge; availability and appearance may vary by version.</sub></p>
 
 
 NFC Studio helps you inspect NFC tags, edit standard NDEF content and write compatible tags. Keep scan history, templates and named tags on your device, without creating an account.

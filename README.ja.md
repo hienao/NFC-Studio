@@ -10,12 +10,14 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · 日本語 · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a></p>
 
 <p align="center">
-  <a href="assets/readme/overview.webp"><img src="assets/readme/overview.webp" width="31%" alt="NFC Studio — overview"></a>
-  <a href="assets/readme/writing.webp"><img src="assets/readme/writing.webp" width="31%" alt="NFC Studio — NDEF writing"></a>
-  <a href="assets/readme/history.webp"><img src="assets/readme/history.webp" width="31%" alt="NFC Studio — local history"></a>
+  <a href="assets/readme/ja-JP/read.png"><img src="assets/readme/ja-JP/read.png" width="31%" alt="NFC Studio — read tags on phone"></a>
+  <a href="assets/readme/ja-JP/write.png"><img src="assets/readme/ja-JP/write.png" width="31%" alt="NFC Studio — write tags on phone"></a>
+  <a href="assets/readme/ja-JP/tools.png"><img src="assets/readme/ja-JP/tools.png" width="31%" alt="NFC Studio — tools on phone"></a>
 </p>
 
-<p align="center"><sub>公開 Google Play プレビュー。クリックで拡大できます。インストールしたバージョンの画面とは異なる場合があります。</sub></p>
+<p align="center"><a href="assets/readme/ja-JP/tablet.png"><img src="assets/readme/ja-JP/tablet.png" width="72%" alt="NFC Studio — write tags on tablet"></a></p>
+
+<p align="center"><sub>スマートフォンとタブレットの画面プレビュー。クリックで拡大できます。画面や機能はバージョンにより異なります。</sub></p>
 
 ## NFC タグをもっと便利に
 

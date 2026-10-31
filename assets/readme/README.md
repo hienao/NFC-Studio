@@ -1,16 +1,11 @@
 # Public presentation assets
 
-These assets were retrieved from the public [NFC Studio Google Play listing](https://play.google.com/store/apps/details?id=com.hienao.nfc.studio) on 2026-10-28.
+These are the NFC Studio app icon and dedicated presentation images prepared for the Google Play listing update submitted on 2026-10-30. They are presented as previews; availability and the installed interface may differ by version. English, Simplified Chinese and Japanese image sets are provided; the other repository introductions use the English set.
 
-- `icon.png`: public app icon.
-- `overview.webp`, `writing.webp`, `history.webp`: the first three English store preview images, resized with their aspect ratios preserved and compressed as WebP. They are store previews, not captures of the latest build; the installed interface may differ. No UI content was changed.
-
-## Original sources
-
-- [overview.webp](https://play-lh.googleusercontent.com/VF9-KcsyaNeh3XOGQkRX8i9AmenCpkGZJ5MlRNmhbIy1fqipWRLLopvREuS9Soo76r9wA28ycd-cu5SiL4ZSIpE=w1080)
-- [writing.webp](https://play-lh.googleusercontent.com/2OUvfqeIJFGnaftbDpEve_k7Sfa2-S7fljbq4Wn8bEdbjUvKQfkkFnfncfcHdSlaLRIU-D1ouHGsAsGem6STMg=w1080)
-- [history.webp](https://play-lh.googleusercontent.com/Fua8V582bl8vWHHBTwc8JtQys6wdUt1LYCdsB4r_b8Spwx3YHqywxT_Zu6h1vX2Lm51U4Vp1UAX_i-EgFCoGCA=w1080)
-- [icon.png](https://play-lh.googleusercontent.com/YNe8tc27CXvYhO4UqEfKeQCqQ38iJuxMFOx1qpvFn_AdbG_EFZ8yiMGGif7TmstkMvmObckHKd58tEVIqrpX=w512)
+- `icon.png`: current 512 × 512 launcher icon supplied for the store listing.
+- `{en-US,zh-CN,ja-JP}/read.png`, `write.png`, `tools.png`: phone app captures presented inside promotional layouts. They show the read, write and tools screens, respectively. The phone captures were made on a physical device.
+- `{en-US,zh-CN,ja-JP}/tablet.png`: tablet write screen captured on a Pixel Tablet emulator and presented in a promotional layout. The promotional layout and device frame are presentation elements, not part of the app UI.
+- The images are copied from the current user-approved store assets without modification. No tag identifiers, credentials or personal tag data are visible in the selected screens. The files are not evidence that a particular version is already publicly available.
 
 ## Refreshing assets
 

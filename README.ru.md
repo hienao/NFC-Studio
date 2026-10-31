@@ -10,12 +10,14 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a> · Русский</p>
 
 <p align="center">
-  <a href="assets/readme/overview.webp"><img src="assets/readme/overview.webp" width="31%" alt="NFC Studio — overview"></a>
-  <a href="assets/readme/writing.webp"><img src="assets/readme/writing.webp" width="31%" alt="NFC Studio — NDEF writing"></a>
-  <a href="assets/readme/history.webp"><img src="assets/readme/history.webp" width="31%" alt="NFC Studio — local history"></a>
+  <a href="assets/readme/en-US/read.png"><img src="assets/readme/en-US/read.png" width="31%" alt="NFC Studio — read tags on phone"></a>
+  <a href="assets/readme/en-US/write.png"><img src="assets/readme/en-US/write.png" width="31%" alt="NFC Studio — write tags on phone"></a>
+  <a href="assets/readme/en-US/tools.png"><img src="assets/readme/en-US/tools.png" width="31%" alt="NFC Studio — tools on phone"></a>
 </p>
 
-<p align="center"><sub>Общедоступные изображения из Google Play. Нажмите для увеличения; установленная версия может выглядеть иначе.</sub></p>
+<p align="center"><a href="assets/readme/en-US/tablet.png"><img src="assets/readme/en-US/tablet.png" width="72%" alt="NFC Studio — write tags on tablet"></a></p>
+
+<p align="center"><sub>Предпросмотр приложения на телефоне и планшете. Нажмите для увеличения; внешний вид и доступность зависят от версии.</sub></p>
 
 ## Работайте со своими метками
 

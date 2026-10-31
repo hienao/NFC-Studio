@@ -10,12 +10,14 @@
 <p align="center"><a href="README.md">English</a> · 简体中文 · <a href="README.ja.md">日本語</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a></p>
 
 <p align="center">
-  <a href="assets/readme/overview.webp"><img src="assets/readme/overview.webp" width="31%" alt="NFC Studio — overview"></a>
-  <a href="assets/readme/writing.webp"><img src="assets/readme/writing.webp" width="31%" alt="NFC Studio — NDEF writing"></a>
-  <a href="assets/readme/history.webp"><img src="assets/readme/history.webp" width="31%" alt="NFC Studio — local history"></a>
+  <a href="assets/readme/zh-CN/read.png"><img src="assets/readme/zh-CN/read.png" width="31%" alt="NFC Studio — read tags on phone"></a>
+  <a href="assets/readme/zh-CN/write.png"><img src="assets/readme/zh-CN/write.png" width="31%" alt="NFC Studio — write tags on phone"></a>
+  <a href="assets/readme/zh-CN/tools.png"><img src="assets/readme/zh-CN/tools.png" width="31%" alt="NFC Studio — tools on phone"></a>
 </p>
 
-<p align="center"><sub>公开 Google Play 预览图，点击可放大；安装版本的实际界面可能不同。</sub></p>
+<p align="center"><a href="assets/readme/zh-CN/tablet.png"><img src="assets/readme/zh-CN/tablet.png" width="72%" alt="NFC Studio — write tags on tablet"></a></p>
+
+<p align="center"><sub>手机与平板界面预览，点击可放大；具体界面和功能取决于安装版本。</sub></p>
 
 
 NFC Studio 帮你检查 NFC 标签、编辑标准 NDEF 内容并写入兼容标签。扫描记录、模板和已命名标签保存在本机，无需注册账号。
